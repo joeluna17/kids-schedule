@@ -1,7 +1,7 @@
 import React from 'react'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
-import { AccessAlarm, ThreeDRotation, StarIcon, ContactSupportOutlined } from '@material-ui/icons';
+//import { AccessAlarm, ThreeDRotation, StarIcon, ContactSupportOutlined } from '@material-ui/icons';
 import Icon from '@material-ui/core/Icon';
 
 const TimelineComponent = (props) => {
