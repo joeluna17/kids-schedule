@@ -15,6 +15,14 @@ background-color: #e3e3e3 ;
   display:none;
 }
 
+.current-item{
+  background-color: rgba(6,165,89, 0.5)
+}
+
+.complete-item{
+  background-color: rgba(233,30,99, 0.5)
+}
+
 
 
 
